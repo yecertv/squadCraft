@@ -37,6 +37,7 @@ main{
     text-align: center;
     background-color: #1c1a37;
     width: 148px;
+    transform: translateY(30px);
     height: 130px;
     transition: all .3s;
     z-index: 2;
