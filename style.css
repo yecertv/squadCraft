@@ -17,9 +17,11 @@ header{
     display: inline-block;
 }
 header h1{
-    display: inline-block;
-    color: yellow;
-    -webkit-text-stroke: 1px violet;
+  position: absolute;
+  display: inline-block;
+  color: yellow;
+  margin-top: 95px;
+  -webkit-text-stroke: 1px violet;
 }
 .img-header{
     display: inline-block;
